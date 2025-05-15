@@ -1,0 +1,17 @@
+{
+    "name" : "Civilian Clothing Pack",
+    "id" : "com.github.Victoria-3-Modding-Co-op.Vic3-Civilian-Clothing-Pack",
+    "version" : "1.0.0",
+    "game_id" : "victoria3",
+    "supported_game_version" : "1.*",
+    "short_description" : "Additional pop & character outfits, especially for the early 20th century & beyond",
+    "tags" : [
+        "Graphics",
+        "Historical",
+        "Pops"
+    ],
+    "relationships" : [],
+    "game_custom_data" : {
+        "multiplayer_synchronized" : true
+    }
+}

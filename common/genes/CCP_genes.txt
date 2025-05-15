@@ -1,0 +1,165 @@
+﻿special_genes = {
+    accessory_genes = {
+        # Hats
+        CCP_male_late_headgear = {
+            inheritable = no
+            
+            no_headgear = {
+                index = 0
+                male  = {
+                    1 = empty
+                }		   
+                female = {
+                    1  = empty
+                }		 
+                boy  = male
+                girl = female
+            }
+            
+            all_headgear = {
+                index = 1
+                male  = {
+                    1  = empty
+                    1  = male_headgear_slavic_agitator_mexican_american_cap
+                    1  = male_headgear_european_common_01
+                    1  = male_headgear_european_common_02
+                    1  = male_headgear_indian_bhagat_singh
+                }		   
+                female = {
+                    1  = empty
+                }		 
+                boy  = male
+                girl = female
+            }
+        }
+        
+        CCP_female_late_headgear = {
+            inheritable = no
+            
+            no_headgear = {
+                index = 0
+                male  = {
+                    1 = empty
+                }		   
+                female = {
+                    1  = empty
+                }		 
+                boy  = male
+                girl = female
+            }
+            
+            all_headgear = {
+                index = 1
+                male  = {
+                    1 = empty
+                }		   
+                female = {
+                    1  = empty
+                    1  = female_headgear_european_common_02
+                    1  = female_headgear_vivandiere_01
+                    1  = female_headgear_european_agitator_01
+                    1  = female_headgear_agitator_pankhurst
+                }		 
+                boy  = male
+                girl = female
+            }
+        }
+        
+        # Coats
+        CCP_male_late_overcoats = {
+            inheritable = no
+            
+            no_coat = {
+                index = 0
+                male  = {
+                    1 = empty
+                }		   
+                female = {
+                    1  = empty
+                }		 
+                boy  = male
+                girl = female
+            }
+            
+            all_coats = {
+                index = 1
+                male  = {
+                    1  = empty
+                    1  = male_civilian_coat_european_01
+                    1  = male_civilian_coat_european_light_colors_01
+                    1  = male_civilian_coat_european_grey_01
+                    1  = male_civilian_coat_european_greybrown_01
+                }		   
+                female = {
+                    1  = empty
+                }		 
+                boy  = male
+                girl = female
+            }
+        }
+        
+        CCP_male_late_waistcoats = {
+            inheritable = no
+            
+            no_waistcoat = {
+                index = 0
+                male  = {
+                    1 = empty
+                }		   
+                female = {
+                    1  = empty
+                }		 
+                boy  = male
+                girl = female
+            }
+            
+            all_waistcoats = {
+                index = 1
+                male  = {
+                    1  = empty
+                    1  = male_waistcoat_european_03
+                    1  = male_waistcoat_european_black_01
+                    1  = male_waistcoat_european_grey_01
+                    1  = male_waistcoat_european_greybrown_01
+                }		   
+                female = {
+                    1  = empty
+                }		 
+                boy  = male
+                girl = female
+            }
+        }
+        
+        # Pants
+        CCP_male_late_legwear = {
+            inheritable = no
+            
+            no_legwear = {
+                index = 0
+                male  = {
+                    1 = empty
+                }		   
+                female = {
+                    1  = empty
+                }		 
+                boy  = male
+                girl = female
+            }
+            
+            all_legwear = {
+                index = 1
+                male  = {
+                    1  = empty
+                    1  = male_legwear_european_01
+                    1  = male_legwear_european_01_black
+                    1  = male_legwear_european_01_greybrown
+                }		   
+                female = {
+                    1  = empty
+                }		 
+                boy  = male
+                girl = female
+            }
+        }
+    }
+}
